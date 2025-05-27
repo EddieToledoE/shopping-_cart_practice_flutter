@@ -1,1 +1,22 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"wintelchin","appId":"1:224453464154:android:0e2b6253f28afdcf4fc863","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"wintelchin","configurations":{"android":"1:224453464154:android:0e2b6253f28afdcf4fc863","web":"1:224453464154:web:147a8e4d602001804fc863"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "wintelchin",
+          "appId": "1:224453464154:android:0e2b6253f28afdcf4fc863",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "wintelchin",
+          "configurations": {
+            "android": "1:224453464154:android:0e2b6253f28afdcf4fc863",
+            "web": "1:224453464154:web:147a8e4d602001804fc863"
+          }
+        }
+      }
+    }
+  }
+}

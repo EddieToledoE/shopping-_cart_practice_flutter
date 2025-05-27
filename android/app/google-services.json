@@ -12,7 +12,20 @@
           "package_name": "com.example.first_practice_shopping"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "224453464154-a1m7d8700274skithkr4gipgqrsla8u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.first_practice_shopping",
+            "certificate_hash": "195b78f9a2567604789f8010ef8106157192c1c2"
+          }
+        },
+        {
+          "client_id": "224453464154-6ts564le7eoe83i4dtvvkt0ubl0v62ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCbPyWlLZeAtMcjz9-k27Q0c7lrd6hSErY"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224453464154-6ts564le7eoe83i4dtvvkt0ubl0v62ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     },
@@ -31,7 +49,12 @@
           "package_name": "com.ramirinter.practicando"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "224453464154-6ts564le7eoe83i4dtvvkt0ubl0v62ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCbPyWlLZeAtMcjz9-k27Q0c7lrd6hSErY"
@@ -39,7 +62,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224453464154-6ts564le7eoe83i4dtvvkt0ubl0v62ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
