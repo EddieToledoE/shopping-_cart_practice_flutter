@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224453464154",
+    "project_id": "wintelchin",
+    "storage_bucket": "wintelchin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224453464154:android:0e2b6253f28afdcf4fc863",
+        "android_client_info": {
+          "package_name": "com.example.first_practice_shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbPyWlLZeAtMcjz9-k27Q0c7lrd6hSErY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224453464154:android:0799025c9ba4e28f4fc863",
+        "android_client_info": {
+          "package_name": "com.ramirinter.practicando"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbPyWlLZeAtMcjz9-k27Q0c7lrd6hSErY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
