@@ -3,6 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import '../services/auth_service.dart';
 import 'login_screen.dart';
 import 'product_list_screen.dart';
+import 'cart_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   final User user;
@@ -23,6 +24,17 @@ class HomeScreen extends StatelessWidget {
               Navigator.pushReplacement(
                 context,
                 MaterialPageRoute(builder: (_) => LoginScreen()),
+              );
+            },
+          ),
+          IconButton(
+            icon: Icon(Icons.shopping_cart),
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (_) => CartScreen(),
+                ), // Asegúrate de importar CartScreen
               );
             },
           ),

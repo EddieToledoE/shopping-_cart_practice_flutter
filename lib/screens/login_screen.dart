@@ -27,7 +27,7 @@ class _LoginScreenState extends State<LoginScreen> {
             // Login externo con API propia
             TextField(
               controller: _emailController,
-              decoration: InputDecoration(labelText: 'Correo'),
+              decoration: InputDecoration(labelText: 'Usuario'),
             ),
             TextField(
               controller: _passwordController,
